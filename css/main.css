@@ -1,0 +1,22 @@
+/* GENERAL */
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Nerko One', cursive;
+    background-color: #50437d;
+}
+
+h1{
+    color: black
+}
+
+/* UTILITIES */
+
+
+
+
+
