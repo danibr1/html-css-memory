@@ -7,7 +7,7 @@
 
 body{
     font-family: 'Nerko One', cursive;
-    background-color: #50437d;
+    background-color: #9d87ee;
 }
 
 h1{
@@ -20,3 +20,49 @@ h1{
 
 
 
+/* CONTAINER */
+.container{
+    width: 80%;
+    max-width: 100%;
+    margin:0 auto;
+}
+
+
+/* HEADER */
+header h1{
+    color: white;
+    text-align: center;
+    font-size: 100px;
+}
+
+/* ---MAIN--- */
+/* GAME TABLE */
+
+.game-table{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 800px;
+    list-style: none;
+    background-color: yellow;
+    padding: 20px;
+}
+
+
+.card{
+    width:230px;
+    height: 265px;
+    background-color: rgb(30, 31, 133);
+    border-radius: 10px;
+    margin: 10px;
+    
+}
+
+
+/* FOOTER */
+footer{
+    width: 100%;
+    height: 50px;
+    color: black;
+    text-align: center;
+}
